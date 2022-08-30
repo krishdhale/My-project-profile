@@ -1,0 +1,217 @@
+body
+{
+    margin: 0px;
+}
+
+.top
+{
+    background-color: #E8F9FD ;
+    height: 60px;
+    
+}
+
+.mid
+{
+    background-color: #E8F9FD;
+    text-align: center; 
+    padding-top: 60px;  
+}
+
+.bot
+{
+    background-color: #79DAE8;
+    text-align: center;
+    padding-top: 50px;
+    margin: 0px;
+}
+
+.foot
+{
+    height: 60px;
+    background-color: #2F8F9D;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+}
+
+.foot-p
+{
+    margin-top: 15px;
+    font-size: 15px;
+    font-family: 'DynaPuff', cursive;
+    color: #002B5B;  
+}
+
+.footer-link
+{
+    margin: 10px;
+}
+
+p
+{
+    margin: 0px;
+    font-size: 30px;
+    font-family: 'DynaPuff', cursive;
+    color: #002B5B;
+}
+
+h1
+{
+    font-family: mySecFont;
+    font-size: 100px;
+    margin: 0px;
+    display: inline;
+    color: #002B5B;
+}
+
+h2
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 60px;
+    color: #73A9AD;
+}
+
+hr
+{
+    background-color:  #79DAE8;
+    border: none;
+    border-top:10px dotted #73A9AD;
+    height: 10px;
+    width: 30%;
+    
+}
+
+.para
+{
+    font-family: 'DynaPuff', cursive;
+    font-size: 30px;
+    color: #73A9AD;
+}
+
+.para1
+{
+    font-family: 'DynaPuff', cursive;
+    font-size: 20px;
+    color: #73A9AD;   
+}
+
+.span
+{
+    text-decoration-line: underline;
+    text-decoration: solid;
+}
+
+
+
+.cloud1
+{
+    position: absolute;
+    right: 50px;
+}
+
+
+.cloud2
+{
+    position: absolute;
+    left: 50px;
+    
+}
+
+
+
+.mount
+{
+    text-align: center;
+    height: 300px;
+    width: 500px;
+    
+}
+
+.button
+{
+    text-align: center;
+    background-color: #002B5B;
+    color: #73A9AD;
+    height: 50px;
+    width: 200px;
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(fonts/mario-font/SuperMarioBros.woff);
+  }
+
+@font-face {
+    font-family: mySecFont;
+    src: url(fonts/funk/funkymuskrat.woff);
+  }
+
+@font-face {
+    font-family: myhiFont;
+    src: url(fonts/hi/outersid.woff);
+  }  
+
+@font-face {
+    font-family: myparaFont;
+    src: url(fonts/para/Emperors.woff);
+  }
+a
+{
+    color: #256D85;
+    text-decoration: none;
+}
+
+.about
+{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    font-family: cursive;
+    margin: 5px;
+}
+
+.work
+{
+    position: absolute;
+    right: 90px;
+    top: 10px;
+    font-family: cursive;
+    margin: 5px;
+    
+}
+
+.info
+{
+    position: absolute;
+    right: 150px;
+    top: 10px;
+    font-family: cursive;
+    margin: 5px;
+
+}
+
+.icon
+{
+    border-radius: 100px;
+    position: absolute;
+    left: 50px;
+    top: 10px;
+}
+
+.gif
+{
+    background: #256D85;
+    border-radius: 100px;
+}
+
+.skills
+{
+    width: 600px;
+    text-align: center;
+}
+

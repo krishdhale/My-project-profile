@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'outersid';
+	src: url('./outersid.eot');
+	src: local('outersid'), url('./outersid.woff') format('woff'), url('./outersid.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_932">Text with this font applied</p> */
+.fontsforweb_fontid_932 {
+	font-family: 'outersid' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

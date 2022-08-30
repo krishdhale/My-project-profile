@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Emperors';
+	src: url('./Emperors.eot');
+	src: local('Emperors'), url('./Emperors.woff') format('woff'), url('./Emperors.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_370">Text with this font applied</p> */
+.fontsforweb_fontid_370 {
+	font-family: 'Emperors' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
